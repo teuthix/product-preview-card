@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/product-preview-card-pZ8cN9kPUj)
 - Live Site URL: [Link](https://product-preview-card-beryl.vercel.app/)
 
 ## My process
